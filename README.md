@@ -45,3 +45,9 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Section 1 : chapter 36 (Deplying to netlify)
+- Créer le repo  https://github.com/stecov/udemy-astro-personal-site
+- Créer un compte sur Netlify avec le compte Github
+- Déployer le code du repo sur Netlify
+- Voir https://velvety-conkies-331bd4.netlify.app/
